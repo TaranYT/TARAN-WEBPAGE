@@ -1,0 +1,16 @@
+img{ display: block;
+    margin: auto;}
+body{background-image: url(https://img.freepik.com/premium-vector/white-background-with-red-diagonal-lines_545823-19.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;}
+
+.mainheading{text-align: center;
+text-decoration: underline rgb(0, 0, 0);
+font-family: arial black;
+color: rgb(0, 0, 0);}
+
+.center{text-align: center;
+    font-family: arial black;}
+
+    #youtubeicon{color: red;}
